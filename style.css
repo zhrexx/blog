@@ -1,0 +1,42 @@
+
+
+header{
+		background-color: lightslategray;
+		color: gold;
+		padding: 40px 20px;
+		text-align: center;
+
+	}
+
+	h1{
+		color: black;
+		font-size: 50px;
+		font-weight: bold;
+		
+	}
+    body{
+    	background-color:lightslategray; 
+    }
+    .centerbut{
+        display: grid;
+        place-items:center; 
+        height: 5vh;
+    }
+    .animal{
+    	display: grid;
+    	place-items:center;
+    	height: 40vh;
+
+
+    }
+    button{
+        padding: 10px 30px;
+        border-radius: 15px;
+        border-color: lightslategray;
+        background-color: black;
+        color: white;
+        border: none;
+        font-weight: bold;
+        position: relative;
+
+    }
